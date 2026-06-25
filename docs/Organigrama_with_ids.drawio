@@ -1,212 +1,1550 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.4 Chrome/138.0.7204.97 Electron/37.2.1 Safari/537.36" version="28.0.4">
-  <diagram name="Página-1" id="jfAPY-3q2WdGzKdS7vCE">
-    <mxGraphModel dx="2226" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron">
+  <diagram id="FNpQr1-Xmcxldq10uFlc" name="Página-1">
+    <mxGraphModel dx="38400" dy="20500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1"
+      arrows="1" fold="1" page="1" pageScale="1" pageWidth="5500" pageHeight="3000"
+      background="#E6F2FA" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Qik6YUHW1CqDeXKeddzL-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" source="Qik6YUHW1CqDeXKeddzL-51" target="Qik6YUHW1CqDeXKeddzL-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qik6YUHW1CqDeXKeddzL-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" source="Qik6YUHW1CqDeXKeddzL-51" edge="1">
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-148" edge="1" parent="1" source="elem_10_5"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.983;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-10" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <object label="&lt;font style=&quot;font-size: 11px;&quot;&gt;Alcalde&lt;/font&gt;" rol_1="Alcalde" id="Qik6YUHW1CqDeXKeddzL-51">
-          <mxCell style="id=rol_1;rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-            <mxGeometry x="-70" y="550" width="120" height="60" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="Qik6YUHW1CqDeXKeddzL-52" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Concejo&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Municipal&lt;/font&gt;&lt;/div&gt;" style="id=rol_2;whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qik6YUHW1CqDeXKeddzL-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" target="Qik6YUHW1CqDeXKeddzL-56" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-10" y="720" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-10" y="660" />
-              <mxPoint x="-150" y="660" />
+              <mxPoint x="8920" y="3240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qik6YUHW1CqDeXKeddzL-56" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Cosoc&lt;/font&gt;" style="id=rol_3;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qik6YUHW1CqDeXKeddzL-58" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-150" y="749.77" as="sourcePoint" />
-            <mxPoint x="-10" y="749.77" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-154" edge="1" parent="1" source="elem_10_1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.979;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8920" y="1640" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qik6YUHW1CqDeXKeddzL-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Qik6YUHW1CqDeXKeddzL-59" edge="1">
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-152" edge="1" parent="1" source="elem_10_3"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8920" y="2440" />
+              <mxPoint x="8920" y="992" />
+            </Array>
+            <mxPoint x="8920" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-149" edge="1" parent="1" source="elem_10_4"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.977;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8920" y="2840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-147" edge="1" parent="1" source="elem_10_6"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.037;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8920" y="3640" />
+              <mxPoint x="8920" y="993" />
+            </Array>
+            <mxPoint x="8920" y="993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-153" edge="1" parent="1" source="elem_10_2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8920" y="2040" />
+              <mxPoint x="8920" y="991" />
+            </Array>
+            <mxPoint x="8920" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-151" edge="1" parent="1" source="elem_10_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.037;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8920" y="1240" />
+            </Array>
+            <mxPoint x="8920" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-145" edge="1" parent="1" source="elem_8_2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.983;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6520" y="2040" />
+              <mxPoint x="6520" y="992" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-135" edge="1" parent="1" source="elem_7_8"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.985;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5320" y="4840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-136" edge="1" parent="1" source="elem_7_12"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.983;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5320" y="6440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-127" edge="1" parent="1" source="elem_7_1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5320" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-128" edge="1" parent="1" source="elem_7_2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.037;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5320" y="2040" />
+              <mxPoint x="5320" y="990" />
+            </Array>
+            <mxPoint x="5310" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-129" edge="1" parent="1" source="elem_7_3"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5320" y="2440" />
+            </Array>
+            <mxPoint x="5320" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-133" edge="1" parent="1" source="elem_7_6"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.041;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_7_3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5400" y="4040" />
+              <mxPoint x="5400" y="2599" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-134" edge="1" parent="1" source="elem_7_7"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_7_3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5400" y="4440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-130" edge="1" parent="1" source="elem_7_4"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.039;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_7_3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5400" y="2840" />
+              <mxPoint x="5400" y="2599" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-131" edge="1" parent="1" source="elem_7_5"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_7_3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5400" y="3240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-132" edge="1" parent="1" source="fGtQ-9D5vMI7RdHVcQbm-41"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5400" y="3640" />
+            </Array>
+            <mxPoint x="5400" y="2600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-121" edge="1" parent="1" source="elem_6_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.065;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4150" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-122" edge="1" parent="1" source="elem_6_1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4150" y="999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-123" edge="1" parent="1" source="elem_6_2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4150" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-124" edge="1" parent="1" source="elem_6_2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4150" y="2040" />
+            </Array>
+            <mxPoint x="4150" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-118" edge="1" parent="1" source="elem_5_4"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2916" y="2840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-116" edge="1" parent="1" source="elem_5_2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.038;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_5_0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3000" y="2040" />
+              <mxPoint x="3000" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-117" edge="1" parent="1" source="elem_5_3"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_5_0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3000" y="2440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-115" edge="1" parent="1" source="elem_5_1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.04;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_5_0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3000" y="1640" />
+            </Array>
+            <mxPoint x="3000" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-114" edge="1" parent="1" source="elem_5_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.033;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2916" y="1240" />
+              <mxPoint x="2916" y="1010" />
+              <mxPoint x="2916" y="1010" />
+            </Array>
+            <mxPoint x="2920" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-109" edge="1" parent="1" source="YslLIrpk6EAMrCeuJEwz-113"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.038;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="XiQgEYW6WsKNx-ofsIEA-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-4279" y="1640" />
+            </Array>
+            <mxPoint x="-4279" y="994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-103" edge="1" parent="1" source="elem_4_1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.04;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_4_0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1800" y="1640" />
+            </Array>
+            <mxPoint x="1800" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-102" edge="1" parent="1" source="elem_4_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.979;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1720" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-105" edge="1" parent="1" source="elem_4_3"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.982;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1720" y="2440" />
+              <mxPoint x="1720" y="993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-97" edge="1" parent="1" source="elem_1_1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.982;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-101" edge="1" parent="1" source="elem_1_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.038;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1240" />
+              <mxPoint x="520" y="1040" />
+              <mxPoint x="521" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-91" edge="1" parent="1" source="XiQgEYW6WsKNx-ofsIEA-6"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.038;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_2_0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" source="Qik6YUHW1CqDeXKeddzL-59" target="6WwWut21OLdbgOuvuQKQ-1" edge="1">
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-92" edge="1" parent="1" source="elem_2_1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.038;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="XiQgEYW6WsKNx-ofsIEA-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-679" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-93" edge="1" parent="1" source="elem_2_2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-679" y="2040" />
+            </Array>
+            <mxPoint x="-679" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-78" edge="1" parent="1" source="elem_3_2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.043;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_3_0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1798" y="2040" />
+              <mxPoint x="-1798" y="1400" />
+            </Array>
+            <mxPoint x="-1798" y="1359.039999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-79" edge="1" parent="1" source="elem_3_3"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=0.981;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1800" y="2440" />
+              <mxPoint x="-1800" y="1394" />
+            </Array>
+            <mxPoint x="-1760" y="1393.92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-80" edge="1" parent="1" source="elem_3_4"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.986;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="XiQgEYW6WsKNx-ofsIEA-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1880" y="2840" />
+              <mxPoint x="-1880" y="993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-81" edge="1" parent="1" source="elem_3_5"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1800" y="3240" />
+              <mxPoint x="-1800" y="3000" />
+            </Array>
+            <mxPoint x="-1800" y="3000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-82" edge="1" parent="1" source="elem_3_6"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1800" y="3640" />
+              <mxPoint x="-1800" y="2999" />
+            </Array>
+            <mxPoint x="-1779.9523809523816" y="3490" as="sourcePoint" />
+            <mxPoint x="-1800" y="3000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-83" edge="1" parent="1" source="elem_3_7"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1840.0023809523816" y="3890" as="sourcePoint" />
+            <mxPoint x="-1880.05" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-84" edge="1" parent="1" source="elem_3_8"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1800" y="4440" />
+            </Array>
+            <mxPoint x="-1800" y="4200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-85" edge="1" parent="1" source="elem_3_9"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.04;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_3_7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1800" y="4840" />
+            </Array>
+            <mxPoint x="-1779.9523809523816" y="4690" as="sourcePoint" />
+            <mxPoint x="-1762" y="4198.719999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-86" edge="1" parent="1" source="elem_3_10"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.04;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_3_7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1800" y="5240" />
+            </Array>
+            <mxPoint x="-1761" y="4200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-76" edge="1" parent="1" source="XiQgEYW6WsKNx-ofsIEA-5"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.037;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_3_0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1880" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-77" edge="1" parent="1" source="elem_3_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.041;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_3_1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1799" y="1399" />
+              <mxPoint x="-1800" y="1399" />
+              <mxPoint x="-1800" y="1640" />
+            </Array>
+            <mxPoint x="-1760" y="1399.3599999999988" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-72" edge="1" parent="1" source="elem_0_3"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.985;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3080" y="2440" />
+              <mxPoint x="-3080" y="993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-73" edge="1" parent="1" source="elem_0_4"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.985;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3080" y="2840" />
+              <mxPoint x="-3080" y="995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-74" edge="1" parent="1" source="elem_0_5"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.979;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3080" y="3240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-75" edge="1" parent="1" source="elem_0_6"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.036;entryY=0.989;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3080" y="3640" />
+              <mxPoint x="-3080" y="995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-67" edge="1" parent="1" source="dir_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_0_1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3080" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-71" edge="1" parent="1" source="dir_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.037;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_0_2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3080" y="2040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-89" edge="1" parent="1" source="elem_0_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3060" y="1230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-107" edge="1" parent="1" source="elem_4_5"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.03;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_4_3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1790" y="3240" />
+            </Array>
+            <mxPoint x="1790" y="2600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-38" edge="1" parent="1" source="root_alcalde"
+          style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=7;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="staff_cm">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4025" y="-990" />
+              <mxPoint x="-760" y="-990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-41" edge="1" parent="1" source="L_tp1oRDe_MaAnAdxejM-2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1960" y="-520" />
+              <mxPoint x="4025" y="-520" />
+            </Array>
+            <mxPoint x="1800" y="-520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-42" edge="1" parent="1" source="root_alcalde"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="staff_sm">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4025" y="-920" />
+              <mxPoint x="7600" y="-920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-43" edge="1" parent="1" source="root_alcalde"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="0nDRxtt2L3dVYxmqKmci-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4025" y="-920" />
+              <mxPoint x="6280" y="-920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-44" edge="1" parent="1" source="root_alcalde"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" source="Qik6YUHW1CqDeXKeddzL-59" target="6WwWut21OLdbgOuvuQKQ-3" edge="1">
+        <mxCell id="root_alcalde" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=181;fillColor=light-dark(#0A79E8,#0A79E8);fontFamily=Barlow;fontColor=light-dark(#FFFFFF,#FFFFFF);labelBorderColor=none;strokeColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;labelBackgroundColor=none;textShadow=0;strokeWidth=2;"
+          value="ALCALDE" vertex="1">
+          <mxGeometry height="500" width="2030" x="3010" y="-1550" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-45" edge="1" parent="1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="L_tp1oRDe_MaAnAdxejM-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4520" y="-120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-46" edge="1" parent="1" source="root_admin"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="XiQgEYW6WsKNx-ofsIEA-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4520" y="-60" />
+              <mxPoint x="6200" y="-60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-47" edge="1" parent="1" source="root_admin"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4025" y="410" />
+              <mxPoint x="3420" y="410" />
+            </Array>
+            <mxPoint x="4025" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="root_admin" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7162D8;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=88;align=center;verticalAlign=middle;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="ADMINISTRADOR MUNICIPAL" vertex="1">
+          <mxGeometry height="320" width="1200" x="3425" y="-440" as="geometry" />
+        </mxCell>
+        <mxCell id="staff_cm" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8e24aa;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontSize=74;fontStyle=1;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;align=center;verticalAlign=middle;strokeWidth=2;"
+          value="CONCEJO MUNICIPAL" vertex="1">
+          <mxGeometry height="320" width="1200" x="-1360" y="-920" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_0_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Proyectos" vertex="1">
+          <mxGeometry height="320" width="880" x="-2920" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_0_2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Estudios y Presupuesto" vertex="1">
+          <mxGeometry height="320" width="880" x="-2920" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_0_3" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Informática" vertex="1">
+          <mxGeometry height="320" width="880" x="-2920" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_0_4" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Vivienda" vertex="1">
+          <mxGeometry height="320" width="880" x="-2920" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_0_5" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Desarrollo Urbano" vertex="1">
+          <mxGeometry height="320" width="880" x="-2920" y="3080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_0_6" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Gestión&amp;nbsp;&lt;div&gt;Información Territorial&lt;/div&gt;"
+          vertex="1">
+          <mxGeometry height="320" width="880" x="-2920" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_1_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Auditoria Operativa y Control de Gestión" vertex="1">
+          <mxGeometry height="320" width="880" x="680" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_1_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Análisis y Revisión" vertex="1">
+          <mxGeometry height="320" width="889" x="670" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_2_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. Judicial" vertex="1">
+          <mxGeometry height="320" width="880" x="-520" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_2_2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. Administrativo" vertex="1">
+          <mxGeometry height="320" width="880" x="-520" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_3_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Administración de Bienes" vertex="1">
+          <mxGeometry height="320" width="880" x="-1720" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_3_2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Contabilidad y Presupuesto" vertex="1">
+          <mxGeometry height="320" width="880" x="-1720" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_3_3" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Tesoreria" vertex="1">
+          <mxGeometry height="320" width="880" x="-1720" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_3_4" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#39D3B5;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=94;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeColor=default;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;"
+          value="Subdirección de Rentas Municipales" vertex="1">
+          <mxGeometry height="320" width="1000" x="-1840" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_3_5" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Rentas y Patentes" vertex="1">
+          <mxGeometry height="320" width="880" x="-1720" y="3080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_3_6" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Fiscalización y Cobranza" vertex="1">
+          <mxGeometry height="320" width="880" x="-1720" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_3_7" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#39D3B5;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=94;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeColor=default;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;"
+          value="Subdirección de Personal" vertex="1">
+          <mxGeometry height="320" width="1000" x="-1840" y="3880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_3_8" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Remuneraciones" vertex="1">
+          <mxGeometry height="320" width="880" x="-1720" y="4280" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_3_9" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Prevención de Riesgos" vertex="1">
+          <mxGeometry height="320" width="880" x="-1720" y="4680" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_3_10" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Bienestar" vertex="1">
+          <mxGeometry height="320" width="880" x="-1720" y="5080" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-54" edge="1" parent="1" source="dir_4"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2220" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dir_4" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCIÓN DE OBRAS MUNICIPALES" vertex="1">
+          <mxGeometry height="480" width="1080" x="1680" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_4_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#39D3B5;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=94;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeColor=default;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;"
+          value="Subdirección Técnica" vertex="1">
+          <mxGeometry height="320" width="1000" x="1760" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-104" edge="1" parent="1" source="elem_4_2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1800" y="2040" />
+              <mxPoint x="1800" y="1400" />
+            </Array>
+            <mxPoint x="1800" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elem_4_2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Inspección" vertex="1">
+          <mxGeometry height="320" width="880" x="1880" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_4_3" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#39D3B5;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=94;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeColor=default;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;"
+          value="Subdirección de Inspección de Obras" vertex="1">
+          <mxGeometry height="320" width="1000" x="1760" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-106" edge="1" parent="1" source="elem_4_4"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1790" y="2820" />
+              <mxPoint x="1790" y="2600" />
+            </Array>
+            <mxPoint x="1790" y="2600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elem_4_4" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Coordinación" vertex="1">
+          <mxGeometry height="320" width="880" x="1880" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_4_5" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Inspección Técnica de Obras" vertex="1">
+          <mxGeometry height="320" width="880" x="1880" y="3080" as="geometry" />
+        </mxCell>
+        <mxCell id="dir_5" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCIÓN DE TRÁNSITO" vertex="1">
+          <mxGeometry height="480" width="1080" x="2880" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_5_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#39D3B5;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=94;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeColor=default;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;"
+          value="Subdirección Administrativa de Transito" vertex="1">
+          <mxGeometry height="320" width="1000" x="2960" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_5_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Permisos de Circulación" vertex="1">
+          <mxGeometry height="320" width="880" x="3080" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_5_2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Licencias de Conducir" vertex="1">
+          <mxGeometry height="320" width="880" x="3080" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_5_3" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. Administrativo" vertex="1">
+          <mxGeometry height="320" width="880" x="3080" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_5_4" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#39D3B5;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=94;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeColor=default;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;"
+          value="Subdirección de Estudios e Ingenieria Transito" vertex="1">
+          <mxGeometry height="320" width="1000" x="2960" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_5_5" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Señalización e Inspección" vertex="1">
+          <mxGeometry height="320" width="880" x="3080" y="3080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_5_6" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. Ingenieria del Tránsito y Proyectos" vertex="1">
+          <mxGeometry height="320" width="880" x="3080" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-55" edge="1" parent="1" source="dir_6"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4620" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dir_6" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCIÓN DE MEDIO AMBIENTE, ASEO Y ORNATO" vertex="1">
+          <mxGeometry height="480" width="1080" x="4080" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_6_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Aseo" vertex="1">
+          <mxGeometry height="320" width="880" x="4280" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_6_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Ornato" vertex="1">
+          <mxGeometry height="320" width="880" x="4280" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_6_2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Estudios" vertex="1">
+          <mxGeometry height="320" width="880" x="4280" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-125" edge="1" parent="1" source="elem_6_3"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4150" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elem_6_3" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Medio Ambiente" vertex="1">
+          <mxGeometry height="320" width="880" x="4280" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-58" edge="1" parent="1" source="dir_7"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5820" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dir_7" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCIÓN DE DESARROLLO COMUNITARIO" vertex="1">
+          <mxGeometry height="480" width="1080" x="5280" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_7_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Difusión y Comunicaciones" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_7_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Planificación y Gestión" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_7_2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. Administrativo" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_7_4" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Protección y Defensoría Ciudadana" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_7_5" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. Social" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="3080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_7_6" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Programas Protección Social" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="3880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_7_7" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto.&lt;span&gt;&amp;nbsp;Integral&lt;/span&gt;&lt;div&gt;&lt;span&gt;Personas Mayores&lt;/span&gt;&lt;/div&gt;"
+          vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="4280" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_7_8" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#39D3B5;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=94;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeColor=default;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;"
+          value="Subdirección de Organizaciones Comunitarias" vertex="1">
+          <mxGeometry height="320" width="1000" x="5360" y="4680" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-137" edge="1" parent="1" source="elem_7_9"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5400" y="5240" />
+              <mxPoint x="5400" y="5000" />
+            </Array>
+            <mxPoint x="5400" y="5000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elem_7_9" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Organizaciones Comunitarias" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="5080" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-138" edge="1" parent="1" source="elem_7_10"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5400" y="5640" />
+              <mxPoint x="5400" y="5000" />
+            </Array>
+            <mxPoint x="5400" y="5000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elem_7_10" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Deportes y Recreación" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="5480" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-139" edge="1" parent="1" source="elem_7_11"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.04;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_7_8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5400" y="6040" />
+            </Array>
+            <mxPoint x="5400" y="5000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elem_7_11" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Inclusión Social" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="5880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_7_12" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#39D3B5;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=93;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeColor=default;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;"
+          value="Subdirección de Desarrollo Económico Local" vertex="1">
+          <mxGeometry height="320" width="1000" x="5360" y="6280" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_7_13" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Fomento Productivo" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="6680" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-141" edge="1" parent="1" source="elem_7_14"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=0.997;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_7_12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5400" y="7240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elem_7_14" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de la Mujer y Equidad de Género" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="7080" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-142" edge="1" parent="1" source="elem_7_15"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=1.001;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_7_12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5400" y="7640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elem_7_15" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Empleo, Innov. Fin. y Cap" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="7480" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-143" edge="1" parent="1" source="elem_8_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.036;entryY=0.986;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6520" y="1240" />
+              <mxPoint x="6520" y="993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elem_8_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Salud Municipal" vertex="1">
+          <mxGeometry height="320" width="880" x="6680" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-144" edge="1" parent="1" source="elem_8_1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.986;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6520" y="1640" />
+              <mxPoint x="6520" y="993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elem_8_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=84;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Administración de Educación Municipal" vertex="1">
+          <mxGeometry height="320" width="880" x="6680" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_8_2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Cementerios Municipales" vertex="1">
+          <mxGeometry height="320" width="880" x="6680" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_9_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Fiscalización de Concesiones" vertex="1">
+          <mxGeometry height="320" width="880" x="7880" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-62" edge="1" parent="1" source="dir_10"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9420" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dir_10" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCION DE OPERACIONES" vertex="1">
+          <mxGeometry height="480" width="1080" x="8880" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-155" edge="1" parent="1" source="elem_10_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_10_1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qik6YUHW1CqDeXKeddzL-59" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Administración&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Municipal&lt;/font&gt;&lt;/div&gt;" style="id=rol_4;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="elem_10_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Administración y Control de Gestión" vertex="1">
+          <mxGeometry height="320" width="880" x="9080" y="1080" as="geometry" />
         </mxCell>
-        <mxCell id="Qik6YUHW1CqDeXKeddzL-60" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="920" as="sourcePoint" />
-            <mxPoint x="-10" y="760" as="targetPoint" />
+        <mxCell id="elem_10_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. Técnico" vertex="1">
+          <mxGeometry height="320" width="880" x="9080" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_10_3" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Calles y Caminos" vertex="1">
+          <mxGeometry height="320" width="880" x="9080" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_10_4" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Obras Menores" vertex="1">
+          <mxGeometry height="320" width="880" x="9080" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_10_5" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Mantenimiento" vertex="1">
+          <mxGeometry height="320" width="880" x="9080" y="3080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_10_6" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. Eléctrico" vertex="1">
+          <mxGeometry height="320" width="880" x="9080" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-63" edge="1" parent="1" source="dir_11"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10620" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qik6YUHW1CqDeXKeddzL-61" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Juzgados&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;1º-2º-3º&lt;/font&gt;&lt;/div&gt;" style="id=rol_5;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="dir_11" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCIÓN DE TURISMO" vertex="1">
+          <mxGeometry height="480" width="1080" x="10080" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;OIRS&lt;/font&gt;" style="id=rol_6;whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="820" width="100" height="40" as="geometry" />
+        <mxCell id="elem_11_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Administración" vertex="1">
+          <mxGeometry height="320" width="880" x="10280" y="1080" as="geometry" />
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Depto. Licitaciones&lt;/font&gt;" style="id=rol_7;whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="820" width="100" height="40" as="geometry" />
+        <mxCell id="elem_11_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Planificación" vertex="1">
+          <mxGeometry height="320" width="880" x="10280" y="1480" as="geometry" />
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-5" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-550" y="920" as="sourcePoint" />
-            <mxPoint x="-190" y="920" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-158" edge="1" parent="1" source="elem_11_2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10150" y="2040" />
+              <mxPoint x="10150" y="1000" />
+            </Array>
+            <mxPoint x="10150" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-6" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-190" y="920" as="sourcePoint" />
-            <mxPoint x="620" y="920" as="targetPoint" />
+        <mxCell id="elem_11_2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Fomento Turístico" vertex="1">
+          <mxGeometry height="320" width="880" x="10280" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_11_3" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Cultura" vertex="1">
+          <mxGeometry height="320" width="880" x="10280" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_11_4" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Innovación y Marketing Turístico" vertex="1">
+          <mxGeometry height="320" width="880" x="10280" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-64" edge="1" parent="1" source="dir_12"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="11820" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-7" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-550" y="960" as="sourcePoint" />
-            <mxPoint x="-550" y="920" as="targetPoint" />
+        <mxCell id="dir_12" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCIÓN DE SEGURIDAD PUBLICA" vertex="1">
+          <mxGeometry height="480" width="1080" x="11280" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_12_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Planificación y Control de Gestión" vertex="1">
+          <mxGeometry height="320" width="880" x="11482" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_12_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. Administrativo" vertex="1">
+          <mxGeometry height="320" width="880" x="11480" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_12_2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Seguridad Publica" vertex="1">
+          <mxGeometry height="320" width="880" x="11482" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_12_3" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Estudios y Prevención Social" vertex="1">
+          <mxGeometry height="320" width="880" x="11480" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_12_4" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Depto. de&amp;nbsp;Difusión y Comunicaciones" vertex="1">
+          <mxGeometry height="320" width="880" x="11480" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="XiQgEYW6WsKNx-ofsIEA-1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8e24aa;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontSize=74;fontStyle=1;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;align=center;verticalAlign=middle;strokeWidth=2;"
+          value="CONSEJO DE SEGURIDAD PUBLICA" vertex="1">
+          <mxGeometry height="320" width="1200" x="-40.000000000000114" y="-920" as="geometry" />
+        </mxCell>
+        <mxCell id="XiQgEYW6WsKNx-ofsIEA-2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8e24aa;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontSize=74;fontStyle=1;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;align=center;verticalAlign=middle;strokeWidth=2;"
+          value="CONSEJO DE ORG. DE LA SOCIEDAD CIVIL" vertex="1">
+          <mxGeometry height="320" width="1200" x="1280" y="-920" as="geometry" />
+        </mxCell>
+        <mxCell id="XiQgEYW6WsKNx-ofsIEA-3" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontSize=90;fontStyle=0;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;align=center;verticalAlign=middle;strokeWidth=2;"
+          value="OIRS — TRANSPARENCIA" vertex="1">
+          <mxGeometry height="320" width="1200" x="5600" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-49" edge="1" parent="1" source="XiQgEYW6WsKNx-ofsIEA-4"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3780" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-8" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Seguridad Publica&lt;/font&gt;" style="id=rol_8;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="960" width="100" height="40" as="geometry" />
+        <mxCell id="XiQgEYW6WsKNx-ofsIEA-4" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=96;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="SECRETARÍA MUNICIPAL" vertex="1">
+          <mxGeometry height="480" width="1080" x="-4320" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-9" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Secretaria Municipal&lt;/font&gt;" style="id=rol_9;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="1010" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-22" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-460" y="1010" as="sourcePoint" />
-            <mxPoint x="-460" y="920" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-52" edge="1" parent="1" source="XiQgEYW6WsKNx-ofsIEA-6"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-26" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-370" y="960" as="sourcePoint" />
-            <mxPoint x="-370" y="920" as="targetPoint" />
+        <mxCell id="XiQgEYW6WsKNx-ofsIEA-6" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCIÓN JURÍDICA" vertex="1">
+          <mxGeometry height="480" width="1080" x="-720" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="L_tp1oRDe_MaAnAdxejM-2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7162D8;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=74;align=center;verticalAlign=middle;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="JUZGADOS DE POLICÍA LOCAL" vertex="1">
+          <mxGeometry height="320" width="1200" x="1360" y="-440" as="geometry" />
+        </mxCell>
+        <mxCell id="fGtQ-9D5vMI7RdHVcQbm-41" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. Registro Social de Hogares" vertex="1">
+          <mxGeometry height="320" width="880" x="5480" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="staff_sm" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontSize=90;fontStyle=0;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;align=center;verticalAlign=middle;strokeWidth=2;"
+          value="GABINETE ALCALDÍA" vertex="1">
+          <mxGeometry height="320" width="1200" x="7000" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="L_tp1oRDe_MaAnAdxejM-1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontSize=86;fontStyle=0;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;align=center;verticalAlign=middle;strokeWidth=2;"
+          value="DPTO. DE LICITACIONES Y GESTION DE ABASTECIMIENTO" vertex="1">
+          <mxGeometry height="320" width="1200" x="4240" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-60" edge="1" parent="1" source="dir_9"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8220" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-27" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Dirección Operaciones&lt;/font&gt;" style="id=rol_10;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="960" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-28" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Dirección Jurídica&lt;/font&gt;" style="id=rol_11;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="1010" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-29" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-280" y="1010" as="sourcePoint" />
-            <mxPoint x="-280" y="920" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-146" edge="1" parent="1" source="dir_9"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.035;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_9_0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7720" y="989" />
+              <mxPoint x="7720" y="1240" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-30" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-190" y="960" as="sourcePoint" />
-            <mxPoint x="-190" y="920" as="targetPoint" />
+        <mxCell id="dir_9" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCIÓN DE CONCESIONES" vertex="1">
+          <mxGeometry height="480" width="1080" x="7680" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-53" edge="1" parent="1" source="dir_1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-31" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Dirección de Turismo&lt;/font&gt;" style="id=rol_12;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="960" width="100" height="40" as="geometry" />
+        <mxCell id="dir_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCIÓN DE CONTROL" vertex="1">
+          <mxGeometry height="480" width="1080" x="480" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-32" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Secretaria Comunal Planificación&lt;/font&gt;" style="id=rol_13;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1010" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-33" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-100" y="1010" as="sourcePoint" />
-            <mxPoint x="-100" y="920" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-51" edge="1" parent="1" source="XiQgEYW6WsKNx-ofsIEA-5"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1380" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-38" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="960" as="sourcePoint" />
-            <mxPoint x="-10" y="920" as="targetPoint" />
+        <mxCell id="XiQgEYW6WsKNx-ofsIEA-5" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS" vertex="1">
+          <mxGeometry height="480" width="1080" x="-1920" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="0nDRxtt2L3dVYxmqKmci-7" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontSize=90;fontStyle=0;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;align=center;verticalAlign=middle;strokeWidth=2;"
+          value="DELEGADOS MUNICIPALES" vertex="1">
+          <mxGeometry height="320" width="1200" x="5680" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-57" edge="1" parent="1" source="dir_8"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7020" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-39" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Dirección de Concesiones&lt;/font&gt;" style="id=rol_14;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="960" width="100" height="40" as="geometry" />
+        <mxCell id="dir_8" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;align=center;verticalAlign=middle;fontFamily=Barlow;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="DIRECCIÓN DE SERVICIOS TRASPASADOS" vertex="1">
+          <mxGeometry height="480" width="1080" x="6480" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-40" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Dirección de Transito&lt;/font&gt;" style="id=rol_15;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1010" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-41" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="1010" as="sourcePoint" />
-            <mxPoint x="80" y="920" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-50" edge="1" parent="1" source="dir_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2580" y="410" />
+              <mxPoint x="4025" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-42" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="960" as="sourcePoint" />
-            <mxPoint x="170" y="920" as="targetPoint" />
+        <mxCell id="dir_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#7162D8,#9999FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=default;fontStyle=1;fontSize=100;labelBackgroundColor=none;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeWidth=2;"
+          value="SECPLAN" vertex="1">
+          <mxGeometry height="480" width="1080" x="-3120" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_0_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;strokeColor=default;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;"
+          value="Dpto. de Coordinación" vertex="1">
+          <mxGeometry height="320" width="880" x="-2920" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_2_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de&amp;nbsp;Bienes" vertex="1">
+          <mxGeometry height="320" width="880" x="-520" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_7_3" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#39D3B5;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=94;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;strokeColor=default;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;"
+          value="Subdirección de Protección Social" vertex="1">
+          <mxGeometry height="320" width="1000" x="5360" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_4_1" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Permisos" vertex="1">
+          <mxGeometry height="320" width="880" x="1880" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_10_2" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Dpto. de Operaciones" vertex="1">
+          <mxGeometry height="320" width="880" x="9080" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="elem_3_0" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#39D3B5;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=94;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Subdirección de Finanzas" vertex="1">
+          <mxGeometry height="320" width="1000" x="-1840" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-39" edge="1" parent="1" source="root_alcalde"
+          style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="XiQgEYW6WsKNx-ofsIEA-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4025" y="-990" />
+              <mxPoint x="560" y="-990" />
+            </Array>
+            <mxPoint x="4865" y="-960" as="sourcePoint" />
+            <mxPoint x="620" y="-1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-43" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Dirección Administración y Finanzas&amp;nbsp;&lt;/font&gt;" style="id=rol_16;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="960" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-44" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Dirección de Obras&lt;/font&gt;" style="id=rol_17;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1010" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-45" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="1010" as="sourcePoint" />
-            <mxPoint x="260" y="920" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-40" edge="1" parent="1" source="root_alcalde"
+          style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="XiQgEYW6WsKNx-ofsIEA-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4025" y="-990" />
+              <mxPoint x="1880" y="-990" />
+            </Array>
+            <mxPoint x="4035" y="-1040" as="sourcePoint" />
+            <mxPoint x="570" y="-910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-46" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="960" as="sourcePoint" />
-            <mxPoint x="350" y="920" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-48" edge="1" parent="1" source="dir_6"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="root_admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4620" y="410" />
+              <mxPoint x="4025" y="410" />
+              <mxPoint x="4025" y="-115" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-47" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Dirección de Control&lt;/font&gt;" style="id=rol_18;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="960" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-48" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Dirección Medio Ambiente Aseo y Ornato&lt;/font&gt;" style="id=rol_19;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="1010" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-49" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="1010" as="sourcePoint" />
-            <mxPoint x="440" y="920" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-108" edge="1" parent="1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="YslLIrpk6EAMrCeuJEwz-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-4279" y="1000" />
+              <mxPoint x="-4280" y="1000" />
+              <mxPoint x="-4280" y="1240" />
+            </Array>
+            <mxPoint x="-4279" y="1000" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-50" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="960" as="sourcePoint" />
-            <mxPoint x="530" y="920" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-110" edge="1" parent="1" source="YslLIrpk6EAMrCeuJEwz-112"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-4279" y="2040" />
+            </Array>
+            <mxPoint x="-4279" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-51" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Dirección Desarrollo Comunitario&lt;/font&gt;" style="id=rol_20;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="960" width="100" height="40" as="geometry" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-111" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Oficina Concejo y Concejales" vertex="1">
+          <mxGeometry height="320" width="880" x="-4120" y="1080" as="geometry" />
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-52" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Servicios Traspasados&lt;/font&gt;" style="id=rol_21;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1010" width="100" height="40" as="geometry" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-112" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Sección Servicios Generales" vertex="1">
+          <mxGeometry height="320" width="880" x="-4120" y="1880" as="geometry" />
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-53" value="" style="endArrow=none;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="1010" as="sourcePoint" />
-            <mxPoint x="620" y="920" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-113" parent="1"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64A2CC;fontColor=light-dark(#FFFFFF,#FFFFFF);fontStyle=0;fontSize=96;fontFamily=Barlow;align=center;verticalAlign=middle;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;textShadow=0;labelBorderColor=none;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;strokeColor=default;"
+          value="Sección Partes y Archivos" vertex="1">
+          <mxGeometry height="320" width="880" x="-4120" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-119" edge="1" parent="1" source="elem_5_5"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_5_4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3000" y="3240" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WwWut21OLdbgOuvuQKQ-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF, #8a8a8a);shadow=1;" parent="1" target="Qik6YUHW1CqDeXKeddzL-61" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="800" as="sourcePoint" />
-            <mxPoint x="30" y="810" as="targetPoint" />
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-120" edge="1" parent="1" source="elem_5_6"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_5_4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3000" y="3640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-126" edge="1" parent="1" source="elem_7_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5320" y="1240" />
+            </Array>
+            <mxPoint x="5320" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-140" edge="1" parent="1" source="elem_7_13"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.04;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="elem_7_12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5400" y="6840" />
+            </Array>
+            <mxPoint x="5360" y="6660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-156" edge="1" parent="1" source="elem_11_4"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.065;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10150" y="2840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-157" edge="1" parent="1" source="elem_11_3"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10150" y="2440" />
+            </Array>
+            <mxPoint x="10150" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-160" edge="1" parent="1" source="elem_11_1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.065;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10150" y="1640" />
+              <mxPoint x="10150" y="1240" />
+              <mxPoint x="10150" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-161" edge="1" parent="1" source="elem_11_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10150" y="1240" />
+            </Array>
+            <mxPoint x="10150" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-162" edge="1" parent="1" source="elem_12_0"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="11350" y="1240" />
+            </Array>
+            <mxPoint x="11350" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-163" edge="1" parent="1" source="elem_12_1"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.069;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="11350" y="1640" />
+              <mxPoint x="11350" y="1001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-164" edge="1" parent="1" source="elem_12_2"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.069;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="11350" y="2040" />
+              <mxPoint x="11350" y="999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-165" edge="1" parent="1" source="elem_12_3"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.066;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;"
+          target="dir_12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YslLIrpk6EAMrCeuJEwz-166" edge="1" parent="1" source="elem_12_4"
+          style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=7;align=center;verticalAlign=middle;fontFamily=Barlow;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11350" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
